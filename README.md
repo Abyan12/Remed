@@ -1,6 +1,6 @@
 #Syntax Hello World Menggunaka PHP
 
-<?php
+#<?php
 
 echo "Hello World
 
